@@ -27,6 +27,7 @@ h2 {
 h3 {
 	margin: 20px 0;
 	font: bold 1em Quicksand, sans-serif;
+	text-transform: lowercase;
 }
 
 button {
